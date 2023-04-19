@@ -1,0 +1,11 @@
+ class Parameterofcircle {
+
+	public static void main(String[] args)
+	{
+       double r=15;
+       //C is a parameter 
+       double C=2*3.14*r;
+		System.out.println("Parameter of circle is: = "
+							+ C);
+	}
+}
