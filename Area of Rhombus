@@ -1,0 +1,11 @@
+class AreaOfRhombus {
+
+	public static void main(String[] args)
+	{
+	   int D1= 150;
+		int D2 = 75;
+		int area=(D1*D2)/2;
+		System.out.println("Area of rhombus = "
+							+ area);
+	}
+}
