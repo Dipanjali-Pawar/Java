@@ -1,0 +1,12 @@
+class PerimeterofParallelogram {
+
+	public static void main(String[] args)
+	{
+        int side=200;
+        int base=500;
+       //P is a perimeter 
+        int P=2*(side+base);
+		System.out.println("Periameter of parallelogram is: = "
+							+ P);
+	}
+}
