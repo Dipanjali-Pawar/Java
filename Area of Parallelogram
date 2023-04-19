@@ -1,0 +1,8 @@
+class AreaofParallelgram{
+    public static void main(String args[]){
+       int base=50;
+       int height=25;
+       int area=base*height;
+       System.out.println("Area of parallelogrm is: " +area);
+    }
+}
