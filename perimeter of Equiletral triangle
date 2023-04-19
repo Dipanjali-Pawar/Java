@@ -1,0 +1,11 @@
+class PerimeterofEquilateraltriangle {
+
+	public static void main(String[] args)
+	{
+        int a=65;
+       //P is a perimeter 
+        int P=3*a;
+		System.out.println("Periameter of equilatral triangle is: = "
+							+ P);
+	}
+}
