@@ -1,0 +1,10 @@
+class volumeofcone {
+    public static void main(String args[]) {
+    double r=5.0;
+    double h= 6.0;
+    double v=3.14*r*r*(h/3);
+    System.out.println("volume of cone is: "+v);
+    }
+    
+}
+    
