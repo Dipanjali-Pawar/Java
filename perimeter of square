@@ -1,0 +1,8 @@
+class perimeterofsquare {
+    public static void main(String args[]) {
+    int a=16;
+    int P=4*a;
+    System.out.println("perimeter of square is: "+P);
+    }
+    
+}
