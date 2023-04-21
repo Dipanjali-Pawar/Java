@@ -1,0 +1,9 @@
+class perimeterofrhombus {
+    public static void main(String args[]) {
+    int a=25;
+    int P=4*a;
+    System.out.println("perimeter of rhombus is: "+P);
+    }
+    
+}
+    
